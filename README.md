@@ -1,4 +1,3 @@
-
 ```markdown
 # Rede de Sensores Inteligentes - App de Alerta de Deslizamentos
 
@@ -80,13 +79,3 @@ RedeSensoresApp/
 ├── package.json          # Metadados do projeto e dependências
 └── README.md             # Este arquivo
 ```
-
-## 🔮 Próximos Passos / Melhorias Futuras (Sugestões)
-
-* [ ] Implementar um modelo de cálculo de risco mais sofisticado.
-* [ ] Adicionar gráficos para visualização de histórico.
-* [ ] Integração com geolocalização para registrar a localização das medições.
-* [ ] Notificações push para alertas de risco.
-* [ ] Permitir a edição ou exclusão de registros individuais no histórico.
-* [ ] Autenticação de usuários (se aplicável).
-* [ ] Testes unitários e de integração.
