@@ -1,4 +1,8 @@
 ```markdown
+# -- ENZO RODRIGUES ACCIARI / RM550262
+# -- Joao Felipe Francischini Tebaldi / RM99333
+# -- Matheus Macedo De Sá / RM552133
+
 # Rede de Sensores Inteligentes - App de Alerta de Deslizamentos
 
 ## 📝 Descrição do Projeto
